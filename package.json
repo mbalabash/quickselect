@@ -1,6 +1,6 @@
 {
   "name": "quickselect.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Quickselect implementation on javascript. Finding the k-th smallest element in an unordered list.",
   "main": "index.js",
   "scripts": {
