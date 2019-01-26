@@ -15,6 +15,18 @@
 const element = quickSelect(array, k, accessor)
 ```
 
+### Install:
+
+```js
+npm i quickselect.js
+```
+
+or
+
+```js
+yarn add quickselect.js
+```
+
 ### Usage:
 
 ```js

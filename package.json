@@ -1,7 +1,7 @@
 {
-  "name": "quickselect",
+  "name": "quickselect.js",
   "version": "0.1.0",
-  "description": "Quickselect implementation on javascript. Finding the kth smallest element in an unordered list.",
+  "description": "Quickselect implementation on javascript. Finding the k-th smallest element in an unordered list.",
   "main": "index.js",
   "scripts": {
     "eslint": "eslint ./src --cache --fix",
@@ -36,6 +36,11 @@
     "js",
     "node.js"
   ],
+  "homepage": "https://github.com/mbalabash/quickselect/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbalabash/quickselect"
+  },
   "author": "mbalabash",
   "license": "MIT"
 }
